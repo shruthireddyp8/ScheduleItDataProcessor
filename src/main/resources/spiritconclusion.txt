@@ -1,0 +1,12 @@
+spirit
+string5 string6
+string2 string3 string4 string7 string8
+string13 string14 string15
+string16 string17
+string24 string25 string26
+string21 string22 string23 string27 string28
+string33 string34
+string35 string36
+string43 string44
+string40 string41 string42 string45 string46
+string51 string52 string53 string54
